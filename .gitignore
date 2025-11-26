@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.webm
+*.mp4
+*.png
+ffmpeg.exe
+.DS_Store
+Thumbs.db
+youtube/data.db
+youtube/accounts_data.pkl
